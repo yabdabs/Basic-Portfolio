@@ -1,0 +1,109 @@
+body{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #E5E5E6	;/*#ededed*/;
+}
+nav{
+	border-bottom: 2px solid #cccccc;
+	height: 50px;
+	background-color: white;
+}
+
+nav .name-box{
+	/*margin-left: 100px;*/
+	width: 200px;
+	height: 100%;
+	background-color: #4aaaa5;
+	margin-right: 0;
+	margin-bottom:0;
+	margin-left: 170px;
+	float: left;
+	line-height:40px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+nav h1{
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+
+.three{
+	float: right;
+	margin-right:120px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+a{
+	text-decoration: none;
+	padding-right: 50px;
+	color:#777777;
+}	
+
+
+.about{
+	width: 500px;
+	height: 350px;
+	background-color: white;/*#ffffff;*/
+	display: inline-block;
+	margin-left: 170px;
+	margin-top: 25px;
+}
+
+.about-title{
+	width: 450px;
+	height: 50px;
+	border-bottom: 1px solid grey;
+	margin: 0 auto 0 auto;
+	color: #4aaaa5;
+}
+
+.about-text{
+	font-family: Helvetica, 'Helvetica Neue', 'Arial', sans-serif;
+	font-size: 16px;
+	color:#777777;
+	line-height: 1.5;
+	margin: 15px 10px 0px 20px;
+}
+
+.connect{
+	float: right;
+	width: 400px;
+	height: 180px;
+	background-color: white;
+	margin-top: 25px;
+	margin-right:170px;
+}
+
+.connect-title{
+	color: #4aaaa5;
+	text-align: center;
+	border-bottom: 1px solid grey;
+	margin: 0 20px 0 20px;
+}
+
+.github2{
+	height: 75px;
+	width: 75px;
+	margin-right: 10px;
+}
+
+.linkedIn{
+	height: 75px;
+	width: 75px;
+	margin-right: 10px;
+}
+
+.stackoverflow2{
+	height: 90px;
+	width: 90px;
+	margin-top: 10px;
+	position: relative;
+	top: 6px;
+}
+
+.connect-images{
+	text-align: center;
+}
